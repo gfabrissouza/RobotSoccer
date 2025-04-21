@@ -1,0 +1,75 @@
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TestApp\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TestApp\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TestApp\SpriteCanvas\obj\Debug\SpriteCanvas.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TestApp\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TestApp\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TestApp\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\TestApp\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\24082016\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\24082016\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\24082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\TCC2\24082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\Guilherme\Google Drive\TCC2\24082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\TCC2\24082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\24082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\30082016\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\30082016\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\30082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\TCC2\30082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\Guilherme\Google Drive\TCC2\30082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\TCC2\30082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\30082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\31082016\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\31082016\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\31082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\Guilherme\Google Drive\TCC2\31082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\TCC2\31082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\31082016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
+C:\Users\guilherme.souza\Documents\Visual Studio 2015\Projects\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\guilherme.souza\Documents\Visual Studio 2015\Projects\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\guilherme.souza\Documents\Visual Studio 2015\Projects\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.souza\Documents\Visual Studio 2015\Projects\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\guilherme.souza\Documents\Visual Studio 2015\Projects\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\guilherme.souza\Documents\Visual Studio 2015\Projects\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\guilherme.souza\Documents\Visual Studio 2015\Projects\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
+C:\Users\guilherme.souza\Google Drive\TCC2\02092016\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\guilherme.souza\Google Drive\TCC2\02092016\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\guilherme.souza\Google Drive\TCC2\02092016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\guilherme.souza\Google Drive\TCC2\02092016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\guilherme.souza\Google Drive\TCC2\02092016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\guilherme.souza\Google Drive\TCC2\02092016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\28092016\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\28092016\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\28092016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\TCC2\28092016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\Guilherme\Google Drive\TCC2\28092016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\TCC2\28092016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\28092016\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
+C:\Users\guilherme.souza\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\guilherme.souza\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\guilherme.souza\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.souza\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\guilherme.souza\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\guilherme.souza\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\guilherme.souza\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobos1.0\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\Facul\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\Facul\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\bin\Debug\SpriteCanvas.pdb
+C:\Users\Guilherme\Google Drive\Facul\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\Facul\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.Canvas.resources
+C:\Users\Guilherme\Google Drive\Facul\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\Facul\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.dll
+C:\Users\Guilherme\Google Drive\Facul\TCC2\FutebolDeRobosV1.17\AmbienteDeSimulacao\SpriteCanvas\obj\Debug\SpriteCanvas.pdb
